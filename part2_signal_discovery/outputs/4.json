@@ -1,0 +1,22 @@
+{
+  "integrity_token": "1f1439fa-5cae-4967-b743-c6a1de4e6647",
+  "generated_at": "2025-08-22T05:32:37.950916+00:00",
+  "row_index": 4,
+  "source_fields": [
+    "Bio"
+  ],
+  "signals": {
+    "education": [],
+    "skills": {
+      "Programming Languages": [
+        "Python"
+      ]
+    },
+    "domain_counts": {
+      "Finance": 53,
+      "AI/ML": 6
+    },
+    "primary_domain": "Finance"
+  },
+  "enriched_with_github": true
+}

@@ -1,0 +1,35 @@
+{
+  "integrity_token": "1f1439fa-5cae-4967-b743-c6a1de4e6647",
+  "generated_at": "2025-08-22T05:32:37.949124+00:00",
+  "row_index": 2,
+  "source_fields": [
+    "Bio"
+  ],
+  "signals": {
+    "education": [],
+    "skills": {
+      "Programming Languages": [
+        "C",
+        "C++",
+        "CMake",
+        "CSS",
+        "Go",
+        "HTML",
+        "JavaScript",
+        "Jupyter Notebook",
+        "Matlab",
+        "Python",
+        "Ruby",
+        "TypeScript"
+      ]
+    },
+    "domain_counts": {
+      "Finance": 1,
+      "Research": 1,
+      "AI/ML": 19,
+      "Data": 1
+    },
+    "primary_domain": "AI/ML"
+  },
+  "enriched_with_github": true
+}

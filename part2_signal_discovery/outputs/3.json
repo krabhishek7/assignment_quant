@@ -1,0 +1,31 @@
+{
+  "integrity_token": "1f1439fa-5cae-4967-b743-c6a1de4e6647",
+  "generated_at": "2025-08-22T05:32:37.950003+00:00",
+  "row_index": 3,
+  "source_fields": [
+    "Bio"
+  ],
+  "signals": {
+    "education": [
+      "Masters"
+    ],
+    "skills": {
+      "Programming Languages": [
+        "C",
+        "C++",
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "Jupyter Notebook",
+        "PowerShell",
+        "Python",
+        "go"
+      ]
+    },
+    "domain_counts": {
+      "AI/ML": 1
+    },
+    "primary_domain": "AI/ML"
+  },
+  "enriched_with_github": true
+}

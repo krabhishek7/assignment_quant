@@ -1,0 +1,6 @@
+integrity_token                      ,row_index ,primary_domain ,education_levels ,skill_buckets         ,skill_terms_count ,enriched_with_github
+1f1439fa-5cae-4967-b743-c6a1de4e6647 ,        0 ,Finance        ,                 ,Programming Languages ,                3 ,yes
+1f1439fa-5cae-4967-b743-c6a1de4e6647 ,        1 ,Finance        ,                 ,Programming Languages ,               12 ,yes
+1f1439fa-5cae-4967-b743-c6a1de4e6647 ,        2 ,AI/ML          ,                 ,Programming Languages ,               12 ,yes
+1f1439fa-5cae-4967-b743-c6a1de4e6647 ,        3 ,AI/ML          ,Masters          ,Programming Languages ,                9 ,yes
+1f1439fa-5cae-4967-b743-c6a1de4e6647 ,        4 ,Finance        ,                 ,Programming Languages ,                1 ,yes
