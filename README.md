@@ -1,6 +1,6 @@
-### AI Tools & Research Intern Assignment – Submission
+### AI Tools & Research 
 
-Hi! I built and demoed two lightweight agents with a focus on clarity, determinism, and interview-readiness. Everything is stdlib-only, reproducible, and includes an integrity_token that changes each run.
+Hi! I built and demoed two lightweight agents with a focus on clarity. Everything is stdlib-only, reproducible, and includes an integrity_token that changes each run.
 
 ### What this project does
 - Part 1 – GitHub Agent: Given developer usernames, fetches repository metadata from GitHub and analyzes activity trends (stars, forks, languages, recency, monthly timeline). Outputs per-developer JSON plus a cross-developer `summary.csv`.
